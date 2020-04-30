@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\codedaddies",
+    "\\my_app",
+    "\\my_app\\migrations",
+    "\\static",
+    "\\static\\css",
+    "\\templates",
+    "\\templates\\my_app"
+  ],
+  "SelectedNode": "\\templates\\my_app\\new_search1.html",
+  "PreviewInSolutionExplorer": false
+}
